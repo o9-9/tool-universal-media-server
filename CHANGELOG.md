@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+### Dependencies
+
+- Bump `ch.qos.logback:logback-classic` from 1.5.23 to 1.5.24 ([#5958](https://github.com/UniversalMediaServer/UniversalMediaServer/pull/5958))
+- Bump `ch.qos.logback:logback-core` from 1.5.23 to 1.5.24 ([#5958](https://github.com/UniversalMediaServer/UniversalMediaServer/pull/5958))
+
 ## [15.4.0](https://github.com/UniversalMediaServer/UniversalMediaServer/compare/15.3.0...15.4.0) (2026-01-11)
 
 ### General
